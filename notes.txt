@@ -1,2 +1,4 @@
 New text inserting into notes
 New text line appending into notes
+This is a new text for testing merging the file.
+
