@@ -1,0 +1,2 @@
+New text inserting into notes
+New text line appending into notes
